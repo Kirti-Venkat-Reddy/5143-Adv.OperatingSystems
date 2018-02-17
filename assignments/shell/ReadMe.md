@@ -2,7 +2,7 @@
 
 
 >
-| Name    | Email   | Github Username |
+| Name    | Email   | 
 |----------|---------|-----------------|
 |  Keerthi Reddy  | reddykeerthi009@gmail.com |   
 
