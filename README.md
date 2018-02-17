@@ -1,5 +1,5 @@
 ![alt tag](https://avatars1.githubusercontent.com/u/21432930?v=3&s=460)
 
-Name : Keerthi Reddy Gangidi
+Name : Keerthi Reddy
 
-Email : kittu.tintu07@gmail.com
+Email : reddykeerthi009@gmail.com
